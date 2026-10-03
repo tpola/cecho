@@ -1,0 +1,14 @@
+{
+  "article": "Add Colors to Batch Files",
+  "author": "Thomas Polaert",
+  "codeproject_article_id": 17033,
+  "historical_article_url": "http://www.codeproject.com/Articles/17033/Add-Colors-to-Batch-Files",
+  "original_publication": "2007-01",
+  "cecho_v2_revision": "2010-08-23",
+  "license": "Code Project Open License (CPOL)",
+  "files": {
+    "src/v2/cecho_v2_reconstructed.c": "reconstruction from archived article code fragments, documented v2 behavior, and comparison with recovered v3 source",
+    "src/v3/cecho.c": "later recovered v3.00 derivative; header credits Thomas Polaert, anzz1 and yungDoom",
+    "archive/Add Colors to Batch Files - CodeProject.html": "saved Wayback/CodeProject article HTML"
+  }
+}
