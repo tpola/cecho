@@ -44,7 +44,7 @@ The text below is converted from the archived CodeProject HTML so that the artic
 - [Download source - 3.63 KB](https://web.archive.org/web/20220309120614/https://www.codeproject.com/KB/dialog/BatchFileColors/cecho_src.zip)
 - [Download exe - 54.7 KB](https://web.archive.org/web/20220309120614/https://www.codeproject.com/KB/dialog/BatchFileColors/cecho_bin.zip)
 
-![Colorize Batch File](./Add Colors to Batch Files - CodeProject_files/cecho1.png)
+![Colorized cecho output](assets/cecho1.png)
 
 ## Introduction
 
@@ -116,7 +116,7 @@ void setColor()
 
 According to the cecho documentation, parsing command arguments can be described by the following parse tree:
 
-![Parse Tree](./Add Colors to Batch Files - CodeProject_files/cecho2.png)
+![cecho parser state chart](assets/cecho2.png)
 
 Fig. 1: Parse Tree
 
